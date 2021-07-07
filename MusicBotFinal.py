@@ -38,7 +38,7 @@ root.title('MusicBot')
 
 # This is the section of code which creates a listbox
 listBoxOn=Listbox(root, bg='#F0F8FF', font=('arial', 12, 'normal'), width=0, height=0)
-listBoxOn.insert('0', 'MusicBot by Nayak, Arya, and Chiru')
+listBoxOn.insert('0', 'MusicBot by Nayak.')
 listBoxOn.insert('1', 'Insert your video name into the text field below.')
 listBoxOn.insert('2', 'While youtube tracks your usage and data, and sends them to advertisers, this player gets your videos anonymously.')
 listBoxOn.insert('3', 'Note: VLC Player has to be installed')
