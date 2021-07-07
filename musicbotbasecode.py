@@ -4,7 +4,7 @@ import urllib.request
 import re
 import youtube_dl
 
-print ("Welcome to MusicBot: Developed by Nayak, Arya and Chiru.")
+print ("Welcome to MusicBot: Developed by Nayak.")
 print ("Do you want instructions and requirements? (y/n) ")
 userchoice= input()
 if userchoice == "y":
